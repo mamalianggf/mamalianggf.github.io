@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me 
 ---
 
-this is about page
+This is a static page. It could be an 'about page' if you'd like.
